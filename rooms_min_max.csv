@@ -1,0 +1,10 @@
+Room Type,Min Price,Max Price,Description
+Standard Room,800,2500,Basic room small size essential facilities
+Single Room,800,2000,For 1 person usually 1 single bed
+Double Room,1500,4000,For 2 people 1 double bed
+Twin Room,2000,4500,2 separate single beds
+Queen Room,2500,5000,1 queen size bed more comfort
+King Room,3000,7000,Larger bed premium comfort
+Deluxe Room,2500,6000,Bigger than standard better interiors
+Studio Room,3000,8000,Includes small kitchen living space
+Suite Room,5000,25000,Separate living and bedroom luxury
